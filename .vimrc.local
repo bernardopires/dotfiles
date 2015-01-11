@@ -1,0 +1,7 @@
+set tabstop=4 shiftwidth=4 expandtab 
+
+" Show 120 chars long print margin
+let &colorcolumn=join(range(121,999),",") 
+
+" Paste toggle F2 in insert mode
+set pastetoggle=<F2>
