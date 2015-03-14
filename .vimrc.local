@@ -1,4 +1,5 @@
 set tabstop=4 shiftwidth=4 expandtab 
+colorscheme jellybeans
 
 " Show 120 chars long print margin
 let &colorcolumn=join(range(121,999),",") 
